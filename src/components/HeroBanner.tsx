@@ -14,7 +14,7 @@ const HeroBanner: React.FC = () => {
       <div className="container mx-auto px-4 py-16 md:py-24 relative">
         <div className="max-w-lg">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4">
-            Bienvenue chez BarchaShop
+            Bienvenue chez Soukna.tn
           </h1>
           <p className="text-white/90 text-lg mb-8">
             Découvrez notre sélection d'accessoires auto, maison et mode à des prix imbattables. Livraison dans toute la Tunisie.

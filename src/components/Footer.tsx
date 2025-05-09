@@ -11,8 +11,8 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div>
             <h2 className="text-xl font-bold mb-4">
-              <span className="text-brand-blue">Barcha</span>
-              <span className="text-brand-orange">Shop</span>
+              <span className="text-brand-blue">Soukna</span>
+              <span className="text-brand-orange">.tn</span>
             </h2>
             <p className="text-gray-400 mb-4">
               Votre boutique en ligne pour accessoires auto, maison et mode en Tunisie. Livraison rapide et prix compétitifs.
@@ -93,7 +93,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-brand-orange" />
-                <span className="text-gray-400">contact@barchashop.tn</span>
+                <span className="text-gray-400">contact@soukna.tn</span>
               </li>
             </ul>
           </div>
@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-6">
           <p className="text-center text-gray-500 text-sm">
-            © {new Date().getFullYear()} BarchaShop.tn - Tous droits réservés
+            © {new Date().getFullYear()} Soukna.tn - Tous droits réservés
           </p>
         </div>
       </div>
